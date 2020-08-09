@@ -1,4 +1,4 @@
-### Hey you! 😁
+### Hey you! 🌎
 
 My name is Alan Morais from Brazil :brazil:. I've been working as Front-End Developer since 2019.
 
