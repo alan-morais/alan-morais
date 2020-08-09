@@ -1,8 +1,8 @@
 ### Hey you! 😁
 
-My name is Alan Morais from Brazil (🇧🇷). I've been working as Front-End Developer since 2019.
+My name is Alan Morais from Brazil :brazil:. I've been working as Front-End Developer since 2019.
 
-In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
+In my free time I like to watch movies 🎞️ and series 📺, to read books 📚, to listen to music 🎵.
 
 Would you like to find me?
 
